@@ -40,4 +40,16 @@ Passionate about modern web development, I build robust applications from the fr
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **👟 SneakerScope** | Sneaker market analysis platform. Aggregates real-time data
+| **👟 [SneakerScope](https://github.com/Taqinou/sneakerscope)** | Sneaker market analysis platform. | `Next.js` `FastAPI` `Gemini AI` |
+| **🎨 [Portfolio](https://github.com/Taqinou/portfolio-website)** | My personal developer portfolio showcasing my projects and skills. | `Next.js` `Tailwind` `Framer Motion` |
+| **📅 [OpenForWork](https://github.com/JusteHugoStudent/ACL-2025-OpenForWork)** | Collaborative academic project for event/calendar management (ACL 2025). | `Javascript` `HTML` `CSS`|
+| **📄 Excel2PDF Auto** | Python automation script for bulk file conversion (Internship tool). | `Python` `Scripting` |
+
+---
+
+<div align="center">
+  <p>Let's connect!</p>
+  <a href="https://www.linkedin.com/in/enzo-gazzoli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
