@@ -1,7 +1,7 @@
 # Hi there, I'm Enzo! 👋
 
 I am a **Junior Fullstack Developer** based in **Nancy, France**.
-Passionate about modern web development, I build robust applications from the frontend (React, Next.js) to the backend (FastAPI, Node.js).
+Passionate about modern web development, I build robust applications from the frontend (React, Next.js...) to the backend.
 
 ---
 
