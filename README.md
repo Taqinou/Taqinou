@@ -40,7 +40,7 @@ Passionate about modern web development, I build robust applications from the fr
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **👟 SneakerScope** | Sneaker market analysis platform. | `Next.js` `FastAPI` `Gemini AI` |
+| **👟 [SneakerScope](https://sneakerscope.app)** | Sneaker market analysis platform. | `Next.js` `FastAPI` `Gemini AI` |
 | **🎨 [Portfolio](https://github.com/Taqinou/portfolio-website)** | My personal developer portfolio showcasing my projects and skills. | `Next.js` `Tailwind` `Framer Motion` |
 | **📅 [OpenForWork](https://github.com/JusteHugoStudent/ACL-2025-OpenForWork)** | Collaborative academic project for event/calendar management (ACL 2025). | `Javascript` `HTML` `CSS`|
 | **📄 Excel2PDF Auto** | Python automation script for bulk file conversion (Internship tool). | `Python` `Scripting` |
