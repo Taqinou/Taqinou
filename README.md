@@ -7,7 +7,7 @@ Passionate about modern web development, I build robust applications from the fr
 
 ### 🚀 About Me
 * 🎓 Graduated with a **Bachelor's in Computer Science** in 2025.
-* 🔭 I’m currently working on **SneakerScope**, an market analysis platform.
+* 🔭 I’m currently working on **[SneakerScope](https://sneakerscope.app)**, an market analysis platform.
 * 📫 Contact me: [enzo.gazzoli@icloud.com](mailto:enzo.gazzoli@icloud.com)
 
 ---
